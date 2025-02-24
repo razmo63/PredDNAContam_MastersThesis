@@ -1,0 +1,4 @@
+input_dir=/path/to/csv_files/extracted_VCF_files
+output_dir=/path/to/output_directory/output_PredDNAcontam_BioSamples
+model_filename=/path/to/output_PredDNAcontam/Random_Forest_Contamination_Model.joblib
+scaler_filename=/path/to/output_PredDNAcontam/scaler.joblib
